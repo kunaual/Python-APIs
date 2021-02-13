@@ -2,7 +2,6 @@
 UofM bootcamp python API homework
 
 *WeatherPy:* 
-
 Provided a cell to generate a list of cities based on randomly generated latitude/longitude values.
 
 Built a dataframe of the cities and added empty weather data columns. OpenWeatherMap API called for each city to populate the weather data. Try/catch block used to catch exceptions where the city was not found by the API. Cleaned up the dataframe to remove cities not found and exported the data to output_Data/cities.csv file.
